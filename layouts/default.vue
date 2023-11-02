@@ -1,5 +1,5 @@
 <template>
-  <div class="h-screen flex flex-col overflow-auto">
+  <div class="h-screen flex flex-col overflow-auto bg-slate-900">
     <div class="p-8 text-white">
       <slot></slot>
     </div>
@@ -18,10 +18,10 @@ background-image: linear-gradient(
   ); 
 }*/
 
-body {
+/* body {
   background-color: black;
   background-image: radial-gradient(gray 1px, transparent 0);
   background-size: 40px 40px;
   background-position: -19px -19px;
-}
+} */
 </style>

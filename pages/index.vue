@@ -1,7 +1,5 @@
 <template>
-  <div class="text-center text-4xl font-mono mb-8 font-bold">7 wonders app</div>
-
-  <div class="flex items-center gap-4 mt-8 mb-4">
+  <div class="flex items-center gap-4 my-4">
     <hr class="flex-1 border-primary" />
     <UIcon name="i-heroicons-cog-6-tooth" class="w-8 h-8 text-pink-400"></UIcon>
     <h1 class="text-2xl font-mono">Extensions</h1>
@@ -30,7 +28,7 @@
 
   <div class="flex items-center gap-4 mt-8 mb-4">
     <hr class="flex-1 border-primary" />
-    <UIcon name="i-heroicons-user" class="w-8 h-8 text-pink-400"></UIcon>
+    <UIcon name="i-heroicons-table-cells" class="w-8 h-8 text-pink-400"></UIcon>
     <h1 class="text-2xl font-mono">Distribution</h1>
     <hr class="flex-1 border-primary" />
   </div>
